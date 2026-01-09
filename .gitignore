@@ -1,0 +1,18 @@
+# Ignore build output
+/build/
+/dist/
+/out/
+
+# NetBeans private config
+/nbproject/private/
+/nbproject/private/*
+
+# Class files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
