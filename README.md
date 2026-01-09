@@ -1,7 +1,7 @@
 # DSA-Project
 
 ## 📌 About
-A collection of Data Structures & Algorithms problems solved in Java.
+A collection of Data Structures & Algorithms Implementation in Java.
 
 ## 🧠 What’s Inside
 Explain the folders like:
