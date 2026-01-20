@@ -14,16 +14,15 @@ Explain the folders like:
 3. Run main class
 
 ## 🧾 Example
-```bash
+
 java Main.java
 📎 Requirements
 Install:
 
 JDK 8+
-
 NetBeans
 
 ⭐ Contribute
-Feel free to open issues or submit PRs!
+- Feel free to open issues or submit PRs!
 
 ---
